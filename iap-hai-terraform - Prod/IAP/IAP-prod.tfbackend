@@ -1,0 +1,5 @@
+subscription_id      = "f7d221ec-4738-488a-8a1c-bd6241699022"
+resource_group_name  = "rg-iap-hai02d"
+storage_account_name = "iaphaidevstoacc"
+container_name       = "testterraform"
+key                  = "IAP-prod.tfstate"
